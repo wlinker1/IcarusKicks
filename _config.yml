@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Icarus Kicks
+description: Reinventing Footwear
 
-url: http://brianmaierjr.github.com/long-haul
+url: icaruskicks.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
