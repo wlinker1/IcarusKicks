@@ -8,18 +8,21 @@
 */
 
 #include <Servo.h>
-
-int speakPin = 6;
+int state = 0;
+int switchPin = 2;
+int speakPin = 4;
 Servo blade;
 
 int pos = 0;
 
 void setup() {
+  pinMode(switchPin, INPUT);
   blade.attach(9);
 }
 
 void loop() {
-    servoSweep(0,120);
+  state = digitalRead(switchPin);
+  servoSweep(0, 100);
 }
 
 void servoSweep(int min, int max){
@@ -28,6 +31,7 @@ void servoSweep(int min, int max){
     blade.write(pos);
     delay(2);
   }
+  tone(speakPin, 1000, 500);
   for (pos = max; pos >= min; pos -= 1) {
     blade.write(pos);
     delay(5);
