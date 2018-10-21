@@ -12,4 +12,9 @@ With any pair of our footwear, you're guaranteed function. Our debut "Bladers" m
 
 When developing the Bladers, we faced an issue with a bad ground rail, causing the knife and speaker to become erratic.While that took hours to pin down and debug, Mike from TCL/NSA gave an immense amount of time and help to get the shoes back on track.
 
+### Action
+
+[![Icarus Kicks in Action](http://img.youtube.com/vi/-1DKjFl4-OQ/0.jpg)](http://www.youtube.com/watch?v=-1DKjFl4-OQ)
+
+
 ###### † Icarus Kicks cannot guarantee absolute safety, wear at own risk.
