@@ -1,0 +1,18 @@
+title: Icarus Kicks
+description: Reinventing Footwear
+
+url: icaruskicks.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+
+theme: jekyll-theme-slate
