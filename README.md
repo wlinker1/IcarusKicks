@@ -8,4 +8,8 @@ The Greek myth of Icarus is a cautionary tale to all that hubris will always end
 
 With any pair of our footwear, you're guaranteed function. Our debut "Bladers" model intends to keep both you and your feet safe from any obstacle that you could face, guaranteed†. Equipped with a 5" dagger, bullhorn, and cushioned soles, you'll be prepared for anything life throws at you.†
 
+### Challenges
+
+When developing the Bladers, we faced an issue with a bad ground rail, causing the knife and speaker to become erratic.While that took hours to pin down and debug, Mike from TCL/NSA gave an immense amount of time and help to get the shoes back on track.
+
 ###### † Icarus Kicks cannot guarantee absolute safety, wear at own risk.
