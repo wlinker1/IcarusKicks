@@ -31,7 +31,7 @@ void servoSweep(int min, int max){
     blade.write(pos);
     delay(2);
   }
-  tone(speakPin, 1000, 500);
+  tone(speakPin, random(500,1500), 500);
   for (pos = max; pos >= min; pos -= 1) {
     blade.write(pos);
     delay(5);
