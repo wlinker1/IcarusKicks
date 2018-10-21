@@ -1,4 +1,3 @@
-
 ![](/assets/icarus-header.jpg)
 
 ### Concept
