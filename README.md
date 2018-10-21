@@ -16,5 +16,8 @@ When developing the Bladers, we faced an issue with a bad ground rail, causing t
 
 [![Icarus Kicks in Action](http://img.youtube.com/vi/-1DKjFl4-OQ/0.jpg)](http://www.youtube.com/watch?v=-1DKjFl4-OQ)
 
+#### Data Visuilization 
+
+
 
 ###### † Icarus Kicks cannot guarantee absolute safety, wear at own risk.
