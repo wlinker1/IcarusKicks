@@ -20,7 +20,7 @@ When developing the Bladers, we faced an issue with a bad ground rail, causing t
 
 ***
 
-# Data Visuilization 
+# Data Visualization 
 
 For the Data visualization section of our hack, we decided to pick one of the most out of character shots of him. While the character is known for his stone cold but lovable facade, Brent Spiner simply breathed life into the role.
 
