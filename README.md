@@ -16,8 +16,15 @@ When developing the Bladers, we faced an issue with a bad ground rail, causing t
 
 [![Icarus Kicks in Action](http://img.youtube.com/vi/-1DKjFl4-OQ/0.jpg)](http://www.youtube.com/watch?v=-1DKjFl4-OQ)
 
-#### Data Visuilization 
+***
 
+***
+
+# Data Visuilization 
+
+For the Data visualization section of our hack, we decided to pick one of the most out of character shots of him. While the character is known for his stone cold but lovable facade, Brent Spiner simply breathed life into the role.
+
+![](/assets/data_vis.jpeg)
 
 
 ###### † Icarus Kicks cannot guarantee absolute safety, wear at own risk.
