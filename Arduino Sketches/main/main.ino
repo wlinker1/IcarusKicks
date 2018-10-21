@@ -26,12 +26,13 @@ void loop() {
 }
 
 void servoSweep(int min, int max){
+  tone(speakPin, random(300,2000), 500);
   for (pos = min; pos <= max; pos += 1){
     // in steps of 1 degree
     blade.write(pos);
     delay(2);
   }
-  tone(speakPin, random(500,1500), 500);
+  tone(speakPin, random(300,2000), 500);
   for (pos = max; pos >= min; pos -= 1) {
     blade.write(pos);
     delay(5);
