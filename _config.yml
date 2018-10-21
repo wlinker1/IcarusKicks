@@ -14,3 +14,5 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
+
+theme: jekyll-theme-slate
